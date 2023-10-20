@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  h1 {
+    text-align: center;
+    margin-top: 80px;
+  }
+
+  .button {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    cursor: pointer;
+  }
+  .boxes {
+    display: flex;
+    margin-left: 280px;
+    margin-top: 50px;
+  }
+
+  #grey {
+    background-color: grey;
+  }
+  #white {
+    background-color: white;
+  }
+  #blue {
+    background-color: blue;
+  }
+  #yellow {
+    background-color: yellow;
+  }
+  #pink {
+    background-color: pink;
+  }
+  #red {
+    background-color: red;
+  }
+  #black {
+    background-color: black;
+  }
